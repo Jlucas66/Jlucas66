@@ -2,7 +2,7 @@ Olá, sou o João Lucas.
 
 -💻Atualmente cursando Ciência da Computação na UFRPE, buscando aprender conceitos de Machine Learning e Artificial Intelligence, que são as áreas que pretendo seguir. Outras áreas que me interessam são Inteligência Artificial, Ciência de dados e também, Segurança da informação.
 
--📚Interesse em me especializar em Inteligência artificial, Data Science e  Machine Learning.
+-📚Interesse em me especializar em Inteligência artificia e Data Science.
 
 <div align="center">
   <a href="https://github.com/Jlucas66">
