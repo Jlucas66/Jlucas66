@@ -1,8 +1,8 @@
-Olá, sou o João Lucas.
+Olá! Eu sou João Lucas de Araújo Pereira, estudante do 6º período de Ciência da Computação pela UFRPE e atualmente atuo como estagiário na Polícia Civil de Pernambuco, na área de desenvolvimento de software.
 
--💻Atualmente cursando Ciência da Computação na UFRPE e estagiando na área de desenvolvimento de software. Busco aprender conceitos de Machine Learning e Artificial Intelligence, que são as áreas que pretendo seguir. Outras áreas que me interessam são Inteligência Artificial, Ciência de dados e também, Segurança da informação.
+-💻 Possuo experiência prática com Python e já desenvolvi, durante minhas disciplinas acadêmicas, projetos como uma loja de jogos em Java. Busco aprofundamento nas áreas de Machine Learning, Ciência de Dados e Inteligência Artificial, com interesse adicional em Segurança da Informação.
 
--📚Interesse em me especializar em Inteligência artificial e Ciência de dados.
+-📚 Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais que envolvam análise de dados, modelagem e automação inteligente. Meu objetivo é construir soluções eficazes, com foco em impacto social e inovação tecnológica.
 
 <div align="center">
   <a href="https://github.com/Jlucas66">
